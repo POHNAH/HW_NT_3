@@ -1,0 +1,50 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP34",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t4.inf",
+                "time": 1617028847563
+            },
+            {
+                "stepId": "STEP35",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t5.inf",
+                "time": 1617028847629
+            },
+            {
+                "stepId": "STEP36",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t6.inf",
+                "time": 1617028847724
+            },
+            {
+                "stepId": "STEP37",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t7.inf",
+                "time": 1617028847818
+            },
+            {
+                "stepId": "STEP38",
+                "stepName": "Submit Data: reservations.pl_4",
+                "infFile": "t8.inf",
+                "time": 1617028847914
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "Action1",
+        "steps": [
+            {
+                "stepId": "STEP39",
+                "stepName": "Url: Home Button",
+                "infFile": "t9.inf",
+                "time": 1617028848052
+            }
+        ],
+        "transactions": []
+    }
+]

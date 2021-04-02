@@ -1,0 +1,357 @@
+[API Trapper      (295c:4490)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (2b38:1cc8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (2b38:311c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2b38:311c)] Load Network Traffic Analyzers:
+[Network Analyzer (2b38:311c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2b38:311c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (2b38:311c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2b38:311c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (2b38:311c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (2b38:311c)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2b38:311c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2b38:311c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2b38:33b4)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[API Trapper      (3344:3f18)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\89.0.774.63\BHO\ie_to_edge_stub.exe
+[API Trapper      (253c: 4d4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (3470:1b34)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      ( 5e0:1d34)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (2b48:1cbc)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (2b48:1e2c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2b48:1e2c)] Load Network Traffic Analyzers:
+[Network Analyzer (2b48:1e2c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2b48:1e2c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2b48:1e2c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2b48:1e2c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2b48:1e2c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2b48:1e2c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2b48:1e2c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2b48:1e2c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2b48:47fc)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[API Trapper      (176c:45f4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (253c:2c50)] ------------------------------------------------------------------------------------------
+[Network Analyzer (253c:2c50)] Load Network Traffic Analyzers:
+[Network Analyzer (253c:2c50)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (253c:2c50)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (253c:2c50)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (253c:2c50)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (253c:2c50)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (253c:2c50)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (253c:2c50)]     Analyzer Module: local_server (value=)
+[Network Analyzer (253c:2c50)] ------------------------------------------------------------------------------------------
+[Network Analyzer (253c:3bc0)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[API Trapper      (1d84:409c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (205c:45a4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (3ebc:41a8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Net An. Warning  (2b38:311c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      (1620:1c4c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (4044:1548)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\89.0.774.63\identity_helper.exe
+[Net An. Warning  (2b38:311c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      (3b68:1924)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (253c:2c50)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (253c:2c50)] Request Connection: Remote Server @ 52.178.182.73:443   (Service=)  (Sid=  1)  PROXIED!
+[Net An. Warning  (2b38:311c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (2b38:311c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2b38:195c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:195c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (253c:3da8)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (253c:3da8)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2b38:33b4)] "GET /WebTours/"   
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Client -> Server @ : 270 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Server -> Client : 864 bytes  (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/header.html"   
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Client -> Server @ : 323 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Server -> Client : 1207 bytes  (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Client -> Server @ : 334 bytes (Service=HTTP)
+[Network Analyzer (2b38:1964)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:1964)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2b38:195c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:1964)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Web Request      (2b38:33b4)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Client -> Server @ : 355 bytes (Service=HTTP)
+[Network Analyzer (2b38:195c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Server -> Client : 1246 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Server -> Client : 4487 bytes  (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Client -> Server @ : 354 bytes (Service=HTTP)
+[Network Analyzer (2b38:1964)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (2b38:46a0)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:46a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Client -> Server @ : 375 bytes (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/home.html"   
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Client -> Server @ : 371 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Server -> Client : 1859 bytes  (Service=HTTP)
+[Network Analyzer (2b38:46a0)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:195c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Server -> Client : 1951 bytes  (Service=HTTP)
+[Network Analyzer (2b38:46a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2b38:1d90)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:1964)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2b38:195c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Client -> Server @ : 386 bytes (Service=HTTP)
+[Network Analyzer (2b38:1d90)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer (2b38:1964)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /favicon.ico"   
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Client -> Server @ : 231 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (253c:3bc0)]   (Sid:  1) Client -> Server @ : 372 bytes (SSL)(Service=HTTP)
+[Web Request      (253c:3bc0)] "POST /api/browser/edge/actions"   
+[Network Analyzer (253c:3bc0)]   (Sid:  1) Client -> Server @ : 1306 bytes (SSL)(Service=HTTP)
+[Network Analyzer (253c:3bc0)]   (Sid:  1) Server -> Client : 662 bytes (SSL) (Service=HTTP)
+[Network Analyzer (253c:3bc0)]   (Sid:  1) Connection Terminated (by Server)
+[Net An. Warning  (2b38:311c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (2b38:311c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (2b38:311c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (2b38:311c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:1964)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2b38:1964)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (2b48:1e2c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:33b4)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (2b48:1e2c)] Request Connection: Remote Server @ 13.107.42.23:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2b48:1e2c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b48:2a90)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2b48:2a90)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Warning  (2b48:1e2c)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (2b48:1e2c)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (2b38:33b4)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (2b38:33b4)]   (Sid:  5) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid:  5) Server -> Client : 1052 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (2b38:33b4)]   (Sid:  7) Connection Terminated (by Client)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (2b38:33b4)]   (Sid:  5) Client -> Server @ : 480 bytes (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (2b38:33b4)]   (Sid: 10) Client -> Server @ : 475 bytes (Service=HTTP)
+[Network Analyzer (2b38:1964)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:2f44)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:1964)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (2b38:2f44)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid:  5) Server -> Client : 1965 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (2b38:33b4)]   (Sid: 11) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 10) Server -> Client : 1375 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 10) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 11) Server -> Client : 1024 bytes  (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (2b38:33b4)]   (Sid: 12) Client -> Server @ : 506 bytes (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:1d90)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:33b4)]   (Sid:  5) Client -> Server @ : 504 bytes (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (2b38:33b4)]   (Sid: 11) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 12) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 11) Server -> Client : 1048 bytes  (Service=HTTP)
+[Network Analyzer (2b38:1d90)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid:  5) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer (295c:3654)] ------------------------------------------------------------------------------------------
+[Network Analyzer (295c:3654)] Load Network Traffic Analyzers:
+[Network Analyzer (295c:3654)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (295c:3654)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (295c:3654)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (295c:3654)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (295c:3654)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (295c:3654)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (295c:3654)]     Analyzer Module: local_server (value=)
+[Network Analyzer (295c:3654)] ------------------------------------------------------------------------------------------
+[Network Analyzer (295c:2a74)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (295c:1184)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (295c:3654)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (295c:1184)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (295c:3654)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (295c:34c8)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (295c:34c8)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (295c:4358)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (295c:4358)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (2b38:33b4)]   (Sid: 15) Client -> Server @ : 494 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 15) Server -> Client : 1065 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (2b38:33b4)]   (Sid: 13) Connection Terminated (by Client)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (2b38:33b4)]   (Sid: 15) Client -> Server @ : 497 bytes (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (2b38:33b4)]   (Sid: 16) Client -> Server @ : 498 bytes (Service=HTTP)
+[Network Analyzer (2b38:1d90)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:195c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:1d90)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (2b38:195c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid: 15) Server -> Client : 1965 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (2b38:33b4)]   (Sid: 15) Client -> Server @ : 510 bytes (Service=HTTP)
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:195c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid: 16) Server -> Client : 4457 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 16) Server -> Client : 286 bytes  (Service=HTTP)
+[Network Analyzer (2b38:195c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (2b38:1d90)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:33b4)]   (Sid: 19) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer (2b38:2f44)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:33b4)]   (Sid: 19) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (2b38:1d90)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (2b38:33b4)]   (Sid: 16) Client -> Server @ : 512 bytes (Service=HTTP)
+[Network Analyzer (2b38:2f44)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid: 15) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 16) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (295c:2a74)]   (Sid:  1) Connection Terminated (by Client)
+[API Trapper      (3b64:16b8)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (3ee0:1010)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (1d5c:2188)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2b38:33b4)]   (Sid: 19) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid: 15) Connection Terminated (by Server)
+[API Trapper      (2ee8: 988)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2b38:33b4)]   (Sid: 16) Connection Terminated (by Server)
+[API Trapper      (2588:2124)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2588: d80)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2588: d80)] Load Network Traffic Analyzers:
+[Network Analyzer (2588: d80)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2588: d80)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2588: d80)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2588: d80)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2588: d80)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2588: d80)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2588: d80)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2588: d80)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2588:2a94)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2588: d80)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Net An. Warning  (2588: d80)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (2588: d80)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (2b38:33b4)] "GET /WebTours/classes/"   
+[Network Analyzer (2b38:33b4)]   (Sid: 20) Client -> Server @ : 482 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 20) Server -> Client : 635 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (2b38:33b4)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:2f44)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (2b38:2f44)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /WebTours/classes/"   
+[Network Analyzer (2b38:33b4)]   (Sid: 20) Client -> Server @ : 482 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 20) Server -> Client : 634 bytes  (Service=HTTP)
+[Net An. Warning  (2588: d80)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (2588: d80)] Request Connection: Remote Server @ 127.0.0.1:80   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2588: d80)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Net An. Warning  (2588: d80)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2b38:33b4)]   (Sid: 20) Connection Terminated (by Server)
+[Net An. Warning  (2588: d80)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2b38:46a0)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:46a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /WebTours/classes/"   
+[Network Analyzer (2b38:33b4)]   (Sid: 25) Client -> Server @ : 482 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 25) Server -> Client : 635 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 25) Connection Terminated (by Server)
+[Web Request      (2b38:33b4)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (2b38:33b4)]   (Sid: 24) Client -> Server @ : 828 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 24) Server -> Client : 2909 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2b38:33b4)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (2b38:33b4)]   (Sid: 23) Client -> Server @ : 718 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 23) Server -> Client : 3161 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid: 23) Connection Terminated (by Server)
+[Network Analyzer (2b38:2f44)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:2f44)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 27)  PROXIED!
+[Web Request      (2b38:33b4)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (2b38:33b4)]   (Sid: 27) Client -> Server @ : 871 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 27) Server -> Client : 3047 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 27) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (2b38:33b4)]   (Sid: 26) Client -> Server @ : 475 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 26) Server -> Client : 1104 bytes  (Service=HTTP)
+[Network Analyzer (2b38:2f44)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:2f44)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid: 26) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid: 27) Connection Terminated (by Server)
+[Web Request      (2b38:33b4)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (2b38:33b4)]   (Sid: 28) Client -> Server @ : 584 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 28) Server -> Client : 4717 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 28) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /WebTours/classes/"   
+[Network Analyzer (2b38:33b4)]   (Sid: 28) Client -> Server @ : 458 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 28) Server -> Client : 634 bytes  (Service=HTTP)
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /WebTours/classes/"   
+[Network Analyzer (2b38:33b4)]   (Sid: 29) Client -> Server @ : 458 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 29) Server -> Client : 635 bytes  (Service=HTTP)
+[Network Analyzer (295c:2a74)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid: 28) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid: 29) Connection Terminated (by Server)
+[Network Analyzer (2b38:46a0)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:46a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Web Request      (2b38:33b4)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (2b38:33b4)]   (Sid: 31) Client -> Server @ : 472 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 31) Server -> Client : 1045 bytes  (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (2b38:33b4)]   (Sid: 31) Client -> Server @ : 469 bytes (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (2b38:33b4)]   (Sid: 30) Client -> Server @ : 464 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (2b38:33b4)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (2b38:46a0)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:2f44)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:46a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (2b38:2f44)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid: 31) Server -> Client : 1965 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 31) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 30) Server -> Client : 1375 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 30) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 30) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid: 31) Connection Terminated (by Server)
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:46a0)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (2b38:1d90)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:2f44)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:46a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (2b38:1d90)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (2b38:2f44)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (2b38:33b4)]   (Sid: 36) Connection Terminated (by Client)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (2b38:33b4)]   (Sid: 34) Client -> Server @ : 468 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 34) Server -> Client : 1247 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (2b38:33b4)]   (Sid: 32) Connection Terminated (by Client)
+[Web Request      (2b38:33b4)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (2b38:33b4)]   (Sid: 35) Client -> Server @ : 372 bytes (Service=HTTP)
+[Web Request      (2b38:33b4)] "GET /WebTours/home.html"   
+[Network Analyzer (2b38:33b4)]   (Sid: 34) Client -> Server @ : 468 bytes (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 34) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (2b38:46a0)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:46a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (2b38:33b4)]   (Sid: 35) Server -> Client : 1949 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 35) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2b38:33b4)]   (Sid: 34) Connection Terminated (by Server)
+[Network Analyzer (2b38:33b4)]   (Sid: 35) Connection Terminated (by Server)
+[Network Analyzer (2b38:46a0)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:311c)] Address lookup for DESKTOP-QB13HOL = 192.168.1.68
+[Network Analyzer (2b38:46a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (2b38:311c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 41)  PROXIED!

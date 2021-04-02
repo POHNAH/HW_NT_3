@@ -1,0 +1,11 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2021/03/29 14:22:15
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2021/03/29 14:25:45
+StartRecordingIsDst_2=0
+[UserHomePage]
+UserHomePage=about:NewsFeed
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+[Security]
+UsingPersistForAuthentication=1
